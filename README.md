@@ -1,6 +1,6 @@
 # Kakugame
 
-https://hamchin.github.io/Kakugame
+https://hamchin.github.io/kakugame
 
 ## 操作方法
 
